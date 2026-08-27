@@ -1,3 +1,5 @@
+package JavaBeginerPractice;
+
 import java.util.Scanner;
 public class ScannerInputPractice {
 
